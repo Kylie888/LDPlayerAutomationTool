@@ -1,0 +1,9 @@
+{
+    "instances": [
+        {"name": "leidian0", "x": 0, "y": 0},
+        {"name": "leidian1", "x": 600, "y": 0},
+        {"name": "leidian2", "x": 1200, "y": 0},
+        {"name": "leidian3", "x": 0, "y": 600},
+        {"name": "leidian4", "x": 600, "y": 600}
+    ]
+}

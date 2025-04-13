@@ -1,0 +1,7 @@
+*.log
+*.vmdk
+__pycache__/
+*.pyc
+config.ini
+emails.txt
+logs/

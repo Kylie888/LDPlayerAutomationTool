@@ -1,0 +1,3 @@
+example1@gmail.com|password123|recovery1@gmail.com
+example2@gmail.com|password456|recovery2@gmail.com
+example3@gmail.com|password789|recovery3@gmail.com
